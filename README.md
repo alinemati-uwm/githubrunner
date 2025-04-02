@@ -2,6 +2,10 @@
 
 ## Description
 
+image comes from below youtube link
+
+[Youtube Link](https://www.youtube.com/watch?v=2_TPy4GERs0&t=593s&ab_channel=TechTrapture)
+
 ## Create a github runner 
 
 in the below image, we are create a github runner. You must go to Settings, Actions, Runners, and then click on the "Add Runner" button.
@@ -35,4 +39,38 @@ in here you must select name for your runner and select the path
 in the below image, you can check if you have successfully installed the runner or not.
 
 ![](./src/images/6.png)
+
+## Yml file
+
+in here you can select the yml file and add the below code in it.
+
+
+![](./src/images/7.png)
+
+The name of self-host is located here.
+
+![](./src/images/8.png)
+
+now, you can submmit the yml file and check if the self-hosted runner is working or not, in the linux server
+
+![](./src/images/9.png)
+
+## here you can see the Action that runner will created.
+
+![](./src/images/10.png)
+
+## check the result
+
+![](./src/images/11.png)
+
+
+When is running, the github action will be activated.
+
+![](./src/images/12.png)
+
+![](./src/images/13.png)
+
+Some information about github action
+
+![](./src/images/14.png)
 
